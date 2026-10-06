@@ -1,61 +1,36 @@
-# [Your Name] - Data Analysis Portfolio
+# Osoru Tarimoboere Gordin - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains the source code for my professional data analysis portfolio website, hosted via GitHub Pages.
 
-## About This Portfolio Template
-
-This portfolio is designed to demonstrate skills in:
+## About This Portfolio
+This site is designed to demonstrate my skills in:
 - Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+- Data modeling and advanced DAX analysis
+- Creating interactive, professional Power BI dashboards
+- Transforming complex logistics and HR data into actionable insights
 
-## 🚀 Projects
+## 📂 Projects Showcase
+This template is set up to showcase my best work. You can view the live project cards and layout customizations in the `index.html` file of this repository.
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+### 🚚 Logistics Performance Analytics (TS Academy Capstone)
+*An end-to-end Power BI dashboard analyzing fleet performance, route efficiency, and delivery SLAs using advanced DAX measures and custom dark-themed layouts.*
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### 👥 HR Analytics Workspace
+*A comprehensive 4-page Power BI dashboard tracking workforce demographics, compensation pay analytics, and employee retention indicators.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### 📊 Afriment Internship - Social & Performance Metrics
+*Daily reporting metrics and multi-workstream presentation dashboards built for Team BrainBox, covering competitor benchmarks and market gap analysis.*
 
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+The `index.html` file of this portfolio reflects my core technical stack, organized into key competencies:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization & BI:** Power BI, Microsoft Excel
+- **Data Analysis & Querying:** SQL (SQL Server Management Studio)
+- **Data Modeling & Transformation:** Power Query, Advanced DAX, Relational Data Modeling
+- **Workflow & Documentation:** Git/GitHub, Custom PowerPoint UI/UX Design
 
-## 💡 How to Use This Template
+---
+*Note: This repository is the backend source code. To view the actual interactive portfolio, please visit the live GitHub Pages link associated with this repository.*
 
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
-
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
-
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
